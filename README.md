@@ -1,5 +1,13 @@
-# custom-react-hook-for-jokes
-A simple custom hook to generate jokes randomly based on user first name and last name
+# Joke Generator
 
-LIVE PAGE LINK:\
-Joke Generator(https://custom-react-hook-joke-generator.netlify.app/)
+It is a custom hook(useRandomJokes(firstname,lastname)) that I have created which uses the joke generator api to create jokes based on the first name and last name variables.
+
+Live Link:\
+(You can find the link to the live app here)
+
+
+https://custom-react-hook-joke-generator.netlify.app/
+
+
+
+
